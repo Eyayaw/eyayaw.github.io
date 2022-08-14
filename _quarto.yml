@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Eyayaw"
+  description: "Eyayaw's personal website"
+  site-url: https://eyayaw.github.io
+  repo-url: https://github.com/eyayaw/eyayaw.github.io
+  twitter-card:
+    creator: "@eyayaw"
+    card-style: summary_large_image
+  opengraph: true
+  favicon: social-card.jpg
+
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - bio.qmd
+      - href: beze-eyayaw_cv.pdf
+        text: CV
+      - href: blog.qmd
+        text: Blog
+    right:
+      - icon: envelope
+        href: mailto:eyayaw.beze@uni-due.de
+      - icon: twitter
+        href: https://twitter.com/eyayaw
+      - icon: linkedin
+        href: https://linkedin.com/in/eyayaw
+      - icon: github
+        href: https://github.com/eyayaw
+      - icon: stack-overflow
+        href: https://stackoverflow.com/users/9782217/eyayaw
+  page-footer:
+    left: |
+      This website is built with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/).
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-title: Contents
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: a11y-dark
+
+execute:
+  freeze: auto
+editor: visual
