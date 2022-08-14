@@ -6,31 +6,75 @@
       version="2.0">
 <channel>
 <title>Eyayaw</title>
-<link>https://eyayaw.github.io/blog.html</link>
-<atom:link href="https://eyayaw.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://eyayaw.github.io/quarto-website/blog.html</link>
+<atom:link href="https://eyayaw.github.io/quarto-website/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Eyayaw's personal website</description>
 <generator>quarto-1.0.37</generator>
-<lastBuildDate>Sat, 30 Jul 2022 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 Jul 2022 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Ten base-r functions you might not know about</title>
+  <dc:creator>Eyayaw Beze</dc:creator>
+  <link>https://eyayaw.github.io/quarto-website/posts/2022-08-01_ten-baser-tips/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In this short post, we will go through 10 base r functions that you may have been underutilizing.</p>
+<ol type="1">
+<li><code>base::lengths, base::rle</code></li>
+<li><code>stats::ave</code></li>
+<li><code>tools::file_path_sans_ext</code> + <code>tools::file_ext + base::baseenv</code></li>
+<li><code>stats::reshape, utils::stack</code></li>
+<li><code>base::sprintf</code></li>
+<li><code>base::sweep</code></li>
+<li>base::Map</li>
+<li><code>base::replace</code></li>
+<li><code>base::within</code></li>
+<li><code>base::strrep</code></li>
+</ol>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{beze2022,
+  author = {Eyayaw Beze},
+  title = {Ten Base-r Functions You Might Not Know About},
+  date = {2022-08-01},
+  url = {https://eyayaw.github.io/quarto-website//posts/2022-08-01_ten-baser-tips},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-beze2022" class="csl-entry quarto-appendix-citeas">
+Eyayaw Beze. 2022. <span>“Ten Base-r Functions You Might Not Know
+About.”</span> August 1, 2022. <a href="https://eyayaw.github.io/quarto-website//posts/2022-08-01_ten-baser-tips">https://eyayaw.github.io/quarto-website//posts/2022-08-01_ten-baser-tips</a>.
+</div></div></section></div> ]]></description>
+  <category>code</category>
+  <category>r</category>
+  <category>base-r</category>
+  <category>tips</category>
+  <guid>https://eyayaw.github.io/quarto-website/posts/2022-08-01_ten-baser-tips/index.html</guid>
+  <pubDate>Sun, 31 Jul 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://eyayaw.github.io/quarto-website/posts/2022-08-01_ten-baser-tips/image.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Welcome to my Blog</title>
   <dc:creator>Eyayaw Beze</dc:creator>
-  <link>https://eyayaw.github.io/posts/2022-07-31_welcome/index.html</link>
+  <link>https://eyayaw.github.io/quarto-website/posts/2022-07-31_welcome/index.html</link>
   <description><![CDATA[ 
 
 
 
 
 <p>This is the first post in my blog. Welcome!</p>
-<p><img src="https://eyayaw.github.io/posts/2022-07-31_welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://eyayaw.github.io/quarto-website/posts/2022-07-31_welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>I will blog about what I have learned in my <code>R</code>and <code>Python</code> journey. Stay tuned!</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <guid>https://eyayaw.github.io/posts/2022-07-31_welcome/index.html</guid>
+  <guid>https://eyayaw.github.io/quarto-website/posts/2022-07-31_welcome/index.html</guid>
   <pubDate>Sat, 30 Jul 2022 22:00:00 GMT</pubDate>
-  <media:content url="https://eyayaw.github.io/posts/2022-07-31_welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://eyayaw.github.io/quarto-website/posts/2022-07-31_welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

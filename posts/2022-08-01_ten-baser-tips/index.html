@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Eyayaw Beze">
+<meta name="dcterms.date" content="2022-08-01">
 
-<title>Eyayaw - Bio</title>
+<title>Eyayaw - Ten base-r functions you might not know about</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -18,25 +20,25 @@ ul.task-list{list-style: none;}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./social-card.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../social-card.jpg" rel="icon" type="image/jpeg">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -56,11 +58,13 @@ ul.task-list{list-style: none;}
     "search-submit-button-title": "Submit"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
-<link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="Eyayaw - Bio">
-<meta name="twitter:description" content="I grew up in a small village called Shumshuha [ሹምሹሃ] (aka Lalibela Airport) about 10km southwest of the historic town Lalibela, Ethiopia.">
+<link rel="stylesheet" href="../../styles.css">
+<meta name="twitter:title" content="Eyayaw - Ten base-r functions you might not know about">
+<meta name="twitter:description" content="In this short post, we will go through 10 base r functions that you may have been underutilizing.">
+<meta name="twitter:image" content="https://eyayaw.github.io/quarto-website/posts/2022-08-01_ten-baser-tips/image.jpg">
 <meta name="twitter:creator" content="@eyayaw">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -71,7 +75,7 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Eyayaw</span>
   </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -80,19 +84,19 @@ ul.task-list{list-style: none;}
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="../../index.html">Home</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html">Research</a>
+    <a class="nav-link" href="../../research.html">Research</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./bio.html" aria-current="page">Bio</a>
+    <a class="nav-link" href="../../bio.html">Bio</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.pdf">CV</a>
+    <a class="nav-link" href="../../cv.pdf">CV</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html">Blog</a>
+    <a class="nav-link" href="../../blog.html">Blog</a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -131,44 +135,87 @@ ul.task-list{list-style: none;}
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Ten base-r functions you might not know about</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">code</div>
+                <div class="quarto-category">r</div>
+                <div class="quarto-category">base-r</div>
+                <div class="quarto-category">tips</div>
+              </div>
+                  </div>
+  </div>
+    
+  <div class="quarto-title-meta-author">
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-heading">Affiliation</div>
+    
+      <div class="quarto-title-meta-contents">
+      <a href="https://eyayaw.github.io">Eyayaw Beze</a> 
+    </div>
+      <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <a href="https://www.uni-due.de/en/index.php">
+              PhD candidate @ University of Duisburg-Essen
+              </a>
+            </p>
+        </div>
+      </div>
+
+  <div class="quarto-title-meta">
+
+        
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">August 1, 2022</p>
+      </div>
+    </div>
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Bio</h1>
-</div>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta">
 
-    
-    
-  </div>
-  
-
-</header>
-
-<p>I grew up in a small village called Shumshuha [ሹምሹሃ] (aka Lalibela Airport) about 10km southwest of the historic town <a href="https://en.wikipedia.org/wiki/Lalibela">Lalibela, Ethiopia</a>.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="shumshuha.jpg" class="img-fluid figure-img" alt="Shumshuha -- Lalibela Airport"></p>
-<p></p><figcaption class="figure-caption">Shumshuha -- Lalibela Airport</figcaption><p></p>
-</figure>
-</div>
-<p>I went to Bahir Dar University for my undergrad, for master’s to <a href="https://www.kdischool.ac.kr/">KDI School</a> in South Korea, and to Budapest, Regensburg, and Trento for a joint European master in comparative local development (<a href="https://www.unitn.it/ateneo/813/joint-european-master-of-local-development-code">Master CoDe</a>).</p>
-<p>For more than three years, I worked for Jimma University, <a href="https://ju.edu.et/college-of-business-and-conomics/">department of Economics</a>, where I taught undergrad economics courses.</p>
+<p>In this short post, we will go through 10 base r functions that you may have been underutilizing.</p>
+<ol type="1">
+<li><code>base::lengths, base::rle</code></li>
+<li><code>stats::ave</code></li>
+<li><code>tools::file_path_sans_ext</code> + <code>tools::file_ext + base::baseenv</code></li>
+<li><code>stats::reshape, utils::stack</code></li>
+<li><code>base::sprintf</code></li>
+<li><code>base::sweep</code></li>
+<li>base::Map</li>
+<li><code>base::replace</code></li>
+<li><code>base::within</code></li>
+<li><code>base::strrep</code></li>
+</ol>
 
 
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{beze2022,
+  author = {Eyayaw Beze},
+  title = {Ten Base-r Functions You Might Not Know About},
+  date = {2022-08-01},
+  url = {https://eyayaw.github.io/quarto-website//posts/2022-08-01_ten-baser-tips},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-beze2022" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
+Eyayaw Beze. 2022. <span>“Ten Base-r Functions You Might Not Know
+About.”</span> August 1, 2022. <a href="https://eyayaw.github.io/quarto-website//posts/2022-08-01_ten-baser-tips">https://eyayaw.github.io/quarto-website//posts/2022-08-01_ten-baser-tips</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -378,4 +425,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

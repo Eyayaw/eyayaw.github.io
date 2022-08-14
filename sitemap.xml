@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://eyayaw.github.io/bio.html</loc>
-    <lastmod>2022-08-14T21:23:25.421Z</lastmod>
+    <loc>https://eyayaw.github.io/quarto-website/bio.html</loc>
+    <lastmod>2022-08-14T22:30:27.356Z</lastmod>
   </url>
   <url>
-    <loc>https://eyayaw.github.io/posts/2022-07-31_welcome/index.html</loc>
-    <lastmod>2022-08-14T21:23:25.769Z</lastmod>
+    <loc>https://eyayaw.github.io/quarto-website/posts/2022-07-31_welcome/index.html</loc>
+    <lastmod>2022-08-14T22:30:27.724Z</lastmod>
   </url>
   <url>
-    <loc>https://eyayaw.github.io/blog.html</loc>
-    <lastmod>2022-08-14T21:23:26.109Z</lastmod>
+    <loc>https://eyayaw.github.io/quarto-website/posts/2022-08-01_ten-baser-tips/index.html</loc>
+    <lastmod>2022-08-14T22:30:28.112Z</lastmod>
   </url>
   <url>
-    <loc>https://eyayaw.github.io/research.html</loc>
-    <lastmod>2022-08-14T21:23:26.369Z</lastmod>
+    <loc>https://eyayaw.github.io/quarto-website/blog.html</loc>
+    <lastmod>2022-08-14T22:30:28.436Z</lastmod>
   </url>
   <url>
-    <loc>https://eyayaw.github.io/index.html</loc>
-    <lastmod>2022-08-14T21:23:26.645Z</lastmod>
+    <loc>https://eyayaw.github.io/quarto-website/research.html</loc>
+    <lastmod>2022-08-14T22:30:28.716Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eyayaw.github.io/quarto-website/index.html</loc>
+    <lastmod>2022-08-14T22:30:28.988Z</lastmod>
   </url>
 </urlset>
