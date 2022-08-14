@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Eyayaw</title>
+<link>https://eyayaw.github.io/blog.html</link>
+<atom:link href="https://eyayaw.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Eyayaw's personal website</description>
+<generator>quarto-1.0.37</generator>
+<lastBuildDate>Sat, 30 Jul 2022 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to my Blog</title>
+  <dc:creator>Eyayaw Beze</dc:creator>
+  <link>https://eyayaw.github.io/posts/2022-07-31_welcome/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the first post in my blog. Welcome!</p>
+<p><img src="https://eyayaw.github.io/posts/2022-07-31_welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>I will blog about what I have learned in my <code>R</code>and <code>Python</code> journey. Stay tuned!</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://eyayaw.github.io/posts/2022-07-31_welcome/index.html</guid>
+  <pubDate>Sat, 30 Jul 2022 22:00:00 GMT</pubDate>
+  <media:content url="https://eyayaw.github.io/posts/2022-07-31_welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
