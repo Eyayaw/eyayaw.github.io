@@ -21,7 +21,7 @@ website:
       - href: research.qmd
         text: Research
       - bio.qmd
-      - href: beze-eyayaw_cv.pdf
+      - href: cv.qmd
         text: CV
       - href: blog.qmd
         text: Blog

@@ -13,7 +13,7 @@ format: html
 
     > **Abstract**
     >
-    > This study provides robust housing supply elasticity estimates for Germany in the years 2008-2019, using Bartik shocks as housing demand shifter. Housing supply turns out to be quite inelastic in the average district, 0.25 for floorspace and 0.19 for units. Variation in existing levels of development intensity, measured by the fraction of land that is already developed, and in land unavailability due to area covered by wetlands, water bodies and steep slopes, partially explains the heterogeneity of housing supply elasticities across districts. Both of these supply constraints significantly lower housing supply elasticity.
+    > This study provides housing supply elasticity estimates for Germany in the years 2008-2019, using Bartik shocks as housing demand shifter. Housing supply turns out to be quite inelastic in the average district, 0.25 for floorspace and 0.19 for units. Variation in existing levels of development intensity, measured by the fraction of land that is already developed, and in land unavailability due to area covered by wetlands, water bodies and steep slopes, partially explains the heterogeneity of housing supply elasticities across districts. Both of these supply constraints significantly lower housing supply elasticity.
 
 ## Publications
 
