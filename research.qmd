@@ -9,7 +9,7 @@ format: html
 
     -   with [Lukas Hörnig](https://www.rwi-essen.de/rwi/team/person/lukas-hoernig), and [Patrick Thiel](https://www.rwi-essen.de/rwi/team/person/patrick-thiel)
 
--   Housing supply elasticity in Germany [\[draft\]](https://bit.ly/beze_HSE_de "Password protected: email me for a copy.")
+-   Housing supply elasticity in Germany [\[draft\]](https://uni-duisburg-essen.sciebo.de/s/iUnIWRo178gQgnB "Password protected: email me for a copy.")
 
     > **Abstract**
     >

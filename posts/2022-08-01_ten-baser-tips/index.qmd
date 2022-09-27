@@ -1,0 +1,19 @@
+---
+title: "Ten base-r functions you might not know about"
+date: "2022-08-01"
+categories: [code, r, base-r, tips]
+image: "image.jpg"
+---
+
+In this short post, we will go through 10 base r functions that you may have been underutilizing.
+
+1.  `base::lengths, base::rle`
+2.  `stats::ave`
+3.  `tools::file_path_sans_ext` + `tools::file_ext + base::baseenv`
+4.  `stats::reshape, utils::stack`
+5.  `base::sprintf`
+6.  `base::sweep`
+7.  base::Map
+8.  `base::replace`
+9.  `base::within`
+10. `base::strrep`
