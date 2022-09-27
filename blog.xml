@@ -10,7 +10,7 @@
 <atom:link href="https://eyayaw.github.io/quarto-website/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Eyayaw's personal website</description>
 <generator>quarto-1.0.37</generator>
-<lastBuildDate>Sun, 31 Jul 2022 21:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 Jul 2022 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Ten base-r functions you might not know about</title>
   <dc:creator>Eyayaw Beze</dc:creator>
@@ -52,7 +52,7 @@ About.”</span> August 1, 2022. <a href="https://eyayaw.github.io/quarto-websit
   <category>base-r</category>
   <category>tips</category>
   <guid>https://eyayaw.github.io/quarto-website/posts/2022-08-01_ten-baser-tips/index.html</guid>
-  <pubDate>Sun, 31 Jul 2022 21:00:00 GMT</pubDate>
+  <pubDate>Sun, 31 Jul 2022 22:00:00 GMT</pubDate>
   <media:content url="https://eyayaw.github.io/quarto-website/posts/2022-08-01_ten-baser-tips/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -73,7 +73,7 @@ About.”</span> August 1, 2022. <a href="https://eyayaw.github.io/quarto-websit
  ]]></description>
   <category>news</category>
   <guid>https://eyayaw.github.io/quarto-website/posts/2022-07-31_welcome/index.html</guid>
-  <pubDate>Sat, 30 Jul 2022 21:00:00 GMT</pubDate>
+  <pubDate>Sat, 30 Jul 2022 22:00:00 GMT</pubDate>
   <media:content url="https://eyayaw.github.io/quarto-website/posts/2022-07-31_welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
