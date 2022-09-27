@@ -18,7 +18,7 @@
     "href": "posts/2022-08-01_ten-baser-tips/index.html",
     "title": "Ten base-r functions you might not know about",
     "section": "",
-    "text": "base::lengths, base::rle\nstats::ave\ntools::file_path_sans_ext + tools::file_ext + base::baseenv\nstats::reshape, utils::stack\nbase::sprintf\nbase::sweep\nbase::Map\nbase::replace\nbase::within\nbase::strrep\n\n\n\n\nCitationBibTeX citation:@online{beze2022,\n  author = {Eyayaw Beze},\n  title = {Ten Base-r Functions You Might Not Know About},\n  date = {2022-08-01},\n  url = {https://eyayaw.github.io/posts/2022-08-01_ten-baser-tips},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nEyayaw Beze. 2022. “Ten Base-r Functions You Might Not Know\nAbout.” August 1, 2022. https://eyayaw.github.io/posts/2022-08-01_ten-baser-tips."
+    "text": "base::lengths, base::rle\nstats::ave\ntools::file_path_sans_ext + tools::file_ext + base::baseenv\nstats::reshape, utils::stack\nbase::sprintf\nbase::sweep\nbase::Map\nbase::replace\nbase::within\nbase::strrep\n\n\n\n\nCitationBibTeX citation:@online{beze2022,\n  author = {Eyayaw Beze},\n  title = {Ten Base-r Functions You Might Not Know About},\n  date = {2022-08-01},\n  url = {https://eyayaw.github.io/quarto-website//posts/2022-08-01_ten-baser-tips},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nEyayaw Beze. 2022. “Ten Base-r Functions You Might Not Know\nAbout.” August 1, 2022. https://eyayaw.github.io/quarto-website//posts/2022-08-01_ten-baser-tips."
   },
   {
     "objectID": "blog.html",
