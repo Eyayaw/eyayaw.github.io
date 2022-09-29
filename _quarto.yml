@@ -3,14 +3,14 @@ project:
   output-dir: _site
 
 website:
-  title: "Eyayaw"
-  description: "Eyayaw's personal website"
+  title: "Eyayaw Beze"
+  description: "Eyayaw Beze's personal website"
   site-url: https://eyayaw.github.io
   repo-url: https://github.com/eyayaw/eyayaw.github.io
   twitter-card:
     creator: "@eyayaw"
     card-style: summary_large_image
-  opengraph: true
+  open-graph: true
   favicon: social-card.jpg
 
   navbar:
