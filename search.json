@@ -1,10 +1,38 @@
 [
   {
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "Bio",
+    "section": "",
+    "text": "Shumshuha -- Lalibela Airport\n\n\nI went to Bahir Dar University for my undergrad, for master’s to KDI School in South Korea, and to Budapest, Regensburg, and Trento for a joint European master in comparative local development (Master CoDe).\nFor more than three years, I worked for Jimma University, department of Economics, where I taught undergrad economics courses.\nNow, I am a PhD candidate at the University of Duisburg-Essen."
+  },
+  {
+    "objectID": "posts/2022-07-31_welcome/index.html",
+    "href": "posts/2022-07-31_welcome/index.html",
+    "title": "Welcome to my Blog",
+    "section": "",
+    "text": "I will blog about what I have learned in my Rand Python journey. Stay tuned!"
+  },
+  {
+    "objectID": "posts/2022-08-01_ten-baser-tips/index.html",
+    "href": "posts/2022-08-01_ten-baser-tips/index.html",
+    "title": "Ten base-r functions you might not know about",
+    "section": "",
+    "text": "base::lengths, base::rle\nstats::ave\ntools::file_path_sans_ext + tools::file_ext + base::baseenv\nstats::reshape, utils::stack\nbase::sprintf\nbase::sweep\nbase::Map\nbase::replace\nbase::within\nbase::strrep\n\n\n\n\nCitationBibTeX citation:@online{beze2022,\n  author = {Eyayaw Beze},\n  title = {Ten Base-r Functions You Might Not Know About},\n  date = {2022-08-01},\n  url = {https://eyayaw.github.io/quarto-website//posts/2022-08-01_ten-baser-tips},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nEyayaw Beze. 2022. “Ten Base-r Functions You Might Not Know\nAbout.” August 1, 2022. https://eyayaw.github.io/quarto-website//posts/2022-08-01_ten-baser-tips."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "code\n\n\nr\n\n\nbase-r\n\n\ntips\n\n\n\n\n\n\n\n\n\n\n\nAug 1, 2022\n\n\nEyayaw Beze\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 31, 2022\n\n\nEyayaw Beze\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "The impact of covid-19 on real estate markets in Germany\n\nwith Lukas Hörnig, and Patrick Thiel\n\nHousing supply elasticity in Germany [draft]\n\nAbstract\nThis study provides housing supply elasticity estimates for Germany in the years 2008-2019, using Bartik shocks as housing demand shifter. Housing supply turns out to be quite inelastic in the average district, 0.25 for floorspace and 0.19 for units. Variation in existing levels of development intensity, measured by the fraction of land that is already developed, and in land unavailability due to area covered by wetlands, water bodies and steep slopes, partially explains the heterogeneity of housing supply elasticities across districts. Both of these supply constraints significantly lower housing supply elasticity."
+    "text": "The impact of the COVID-19 pandemic on real estate markets in Germany\n\nwith Lukas Hörnig, and Patrick Thiel\n\nHousing supply elasticity in Germany [draft]\n\nAbstract\nThis study provides housing supply elasticity estimates for Germany in the years 2008-2019, using Bartik shocks as housing demand shifter. Housing supply turns out to be quite inelastic in the average district, 0.25 for floorspace and 0.19 for units. Variation in existing levels of development intensity, measured by the fraction of land that is already developed, and in land unavailability due to area covered by wetlands, water bodies and steep slopes, partially explains the heterogeneity of housing supply elasticities across districts. Both of these supply constraints significantly lower housing supply elasticity."
   },
   {
     "objectID": "research.html#publications",
@@ -21,38 +49,10 @@
     "text": "Essays\n\nEnergy Consumption and Economic Growth in Selected East African Countries: 1990-2015\nSources of Growth in Sub-Saharan-African Countries: A Growth Accounting Analysis over 1980-2011 time period"
   },
   {
-    "objectID": "posts/2022-08-01_ten-baser-tips/index.html",
-    "href": "posts/2022-08-01_ten-baser-tips/index.html",
-    "title": "Ten base-r functions you might not know about",
-    "section": "",
-    "text": "base::lengths, base::rle\nstats::ave\ntools::file_path_sans_ext + tools::file_ext + base::baseenv\nstats::reshape, utils::stack\nbase::sprintf\nbase::sweep\nbase::Map\nbase::replace\nbase::within\nbase::strrep\n\n\n\n\nCitationBibTeX citation:@online{beze2022,\n  author = {Eyayaw Beze},\n  editor = {},\n  title = {Ten Base-r Functions You Might Not Know About},\n  date = {2022-08-01},\n  url = {https://eyayaw.github.io/posts/2022-08-01_ten-baser-tips},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nEyayaw Beze. 2022. “Ten Base-r Functions You Might Not Know\nAbout.” August 1, 2022. https://eyayaw.github.io/posts/2022-08-01_ten-baser-tips."
-  },
-  {
-    "objectID": "posts/2022-07-31_welcome/index.html",
-    "href": "posts/2022-07-31_welcome/index.html",
-    "title": "Welcome to my Blog",
-    "section": "",
-    "text": "I will blog about what I have learned in my Rand Python journey. Stay tuned!"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "My name is Eyayaw Beze, and I am a PhD candidate at the University of Duisburg-Essen. My research areas are urban and regional economics, with a particular focus on housing markets issues. Besides, I am highly interested in data science with R and Python."
-  },
-  {
-    "objectID": "bio.html",
-    "href": "bio.html",
-    "title": "Bio",
-    "section": "",
-    "text": "Shumshuha -- Lalibela Airport\n\n\nI went to Bahir Dar University for my undergrad, for master’s to KDI School in South Korea, and to Budapest, Regensburg, and Trento for a joint European master in comparative local development (Master CoDe).\nFor more than three years, I worked for Jimma University, department of Economics, where I taught undergrad economics courses.\nNow, I am a PhD candidate at the University of Duisburg-Essen."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "code\n\n\nr\n\n\nbase-r\n\n\ntips\n\n\n\n\n\n\n\n\n\n\n\nAug 1, 2022\n\n\nEyayaw Beze\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 31, 2022\n\n\nEyayaw Beze\n\n\n\n\n\n\nNo matching items"
+    "text": "My name is Eyayaw T. Beze, and I am a PhD candidate at the University of Duisburg-Essen. My research areas are urban and regional economics, with a particular focus on housing markets issues. Besides, I am highly interested in data science with R and Python."
   }
 ]
