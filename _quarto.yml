@@ -36,6 +36,10 @@ website:
         href: https://github.com/eyayaw
       - icon: stack-overflow
         href: https://stackoverflow.com/users/9782217/eyayaw
+        rel: me
+      - icon: mastodon
+        href: https://mastodon.social/@eyayaw
+        rel: me
   page-footer:
     left: |
       This website is built with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/).
@@ -54,4 +58,4 @@ format:
 
 execute:
   freeze: auto
-editor: visual
+editor: source

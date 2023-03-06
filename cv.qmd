@@ -1,5 +1,5 @@
 ---
-format: 
+format:
   pdf:
     fontsize: 10pt
     header-includes: |
@@ -16,14 +16,16 @@ format:
       \hypersetup{
       colorlinks=true,
       linkcolor=blue,
-      filecolor=magenta,      
+      filecolor=magenta,
       urlcolor=blue,
       }
+execute:
+  freeze: auto
 ---
 
 ```{=tex}
 \begin{center}
-\Huge{\textbf{Eyayaw Teka Beze}}  
+\Huge{\textbf{Eyayaw Teka Beze}}
 \end{center}
 \vspace{1pt}
 \begin{flushleft}
@@ -32,7 +34,7 @@ format:
 \vspace{-18pt}
 \rule{\textwidth}{1pt}
 % \vspace{0.2in}
-\-\ Mercator School of Management (University of Duisburg-Essen)\\ 
+\-\ Mercator School of Management (University of Duisburg-Essen)\\
 \-\ Chair of Economics \\
 \-\ Lotharstr. 65
 47057 Duisburg, Germany \\
@@ -49,7 +51,7 @@ format:
 09/2017 -- 09/2019 &
  Joint European Master in Comparative Local Development Studies, Corvinus University of Budapest, University of (Regensburg, Trento, and Ljubljana).\\
 08/2014 -- 12/2015       & MA in Development Policy,  KDI School, Korea              \\
-10/2008 -- 06/2012       & BA in Economics, Bahir Dar University, Ethiopia          
+10/2008 -- 06/2012       & BA in Economics, Bahir Dar University, Ethiopia
 \end{tabular}
 \end{table}
 
@@ -63,7 +65,7 @@ format:
 08 -- 10/2019  & RA, Leibniz Institute for East \& SE European Studies, Regensburg, Germany\\
 04 -- 07/2019 & Intern, ditto\\
 2016 -- 2017  & Lecturer of Economics, Department of Economics, Jimma University, Ethiopia\\
-2012 -- 2014 & Graduate Assistant, Department of Economics, Jimma University, Ethiopia\\    
+2012 -- 2014 & Graduate Assistant, Department of Economics, Jimma University, Ethiopia\\
 \end{tabular}
 \end{table}
 
@@ -93,15 +95,15 @@ Fall 2012   & Introduction to Statistics (BA), Jimma University, Ethiopia
 \rule{\textwidth}{1pt}
 
 \begin{itemize}
-    \item "Housing supply elasticity in Germany" --- work in progress
-    
+    \item "Geographic Constraints and the Housing Supply Elasticity in Germany" --- \href{https://www.rwi-essen.de/en/publications/scientific/ruhr-economic-papers/detail/geographic-constraints-and-the-housing-supply-elasticity-germany}{Ruhr Economic Papers \#1003}
+
      \item \href{https://doi.org/10.46404/panjogov.v1i2.2342}{"Trends in Contemporary International Migration of Ethiopia" PanAfrican Journal of Governance and Development (PJGD), 1(2), 30-60}
-     
+
    \item “Energy Consumption and Economic
 Growth in Selected East African Countries: 1990-2015” --- MA thesis
-     
+
      \item “Sources of Growth in Sub-Saharan-African Countries: A Growth Accounting Analysis over 1980-2011 time period” --- MA thesis
-     
+
 \end{itemize}
 
 \begin{flushleft}

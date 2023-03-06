@@ -2,13 +2,11 @@
 
 # freeze computational output
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
-freeze: true
+freeze: auto
 
 # Enable banner style title blocks
 title-block-banner: true
 
-# long dates
-date-format: long
 
 # smooth scroll
 smooth-scroll: true
@@ -19,7 +17,9 @@ author:
     url: https://eyayaw.github.io
     affiliation: PhD candidate @ University of Duisburg-Essen
     affiliation-url: https://www.uni-due.de/en/index.php
+date-format: long
 
 # citation
 citation: true
+
 

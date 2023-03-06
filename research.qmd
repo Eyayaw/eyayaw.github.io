@@ -9,11 +9,11 @@ format: html
 
     -   with [Lukas Hörnig](https://www.rwi-essen.de/rwi/team/person/lukas-hoernig), and [Patrick Thiel](https://www.rwi-essen.de/rwi/team/person/patrick-thiel)
 
--   Housing supply elasticity in Germany [\[draft\]](https://uni-duisburg-essen.sciebo.de/s/iUnIWRo178gQgnB "Password protected: email me for a copy.")
+-   Geographic Constraints and the Housing Supply Elasticity in Germany --- *Ruhr Economic Papers #1003* [\[link\]](https://www.rwi-essen.de/en/publications/scientific/ruhr-economic-papers/detail/geographic-constraints-and-the-housing-supply-elasticity-germany)
 
     > **Abstract**
     >
-    > This study provides housing supply elasticity estimates for Germany in the years 2008-2019, using Bartik shocks as housing demand shifter. Housing supply turns out to be quite inelastic in the average district, 0.25 for floorspace and 0.19 for units. Variation in existing levels of development intensity, measured by the fraction of land that is already developed, and in land unavailability due to area covered by wetlands, water bodies and steep slopes, partially explains the heterogeneity of housing supply elasticities across districts. Both of these supply constraints significantly lower housing supply elasticity.
+    > The study estimates the housing supply elasticity and the impact of geographic constraints in Germany from 2008-2019 using the Bartik instrument. The results show that the housing supply is, on average, inelastic, with a floorspace elasticity of 0.22 and a units elasticity of 0.25. The study also reveals that geographical constraints partially affect the housing supply elasticity across districts. Notably, high development intensity decreases the elasticity, while the unavailability of land for development due to restrictive geography has no significant impact on the housing supply elasticity. The housing supply elasticity estimates may prove useful for calibrating quantitative urban or regional models in Germany.
 
 ## Publications
 
