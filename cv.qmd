@@ -20,7 +20,7 @@ format:
       urlcolor=blue,
       }
 execute:
-  freeze: auto
+  freeze: true
 ---
 
 ```{=tex}

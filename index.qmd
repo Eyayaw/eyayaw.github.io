@@ -1,17 +1,60 @@
 ---
-title: "Welcome"
+# title: Welcome
 image: social-card.jpg
 about:
-  template: jolla
+  template: trestles
   links:
-    - text: Email
+    - href: https://eyayaw.github.io
+      icon: link
+    - icon: envelope
       href: eyayaw.beze@uni-due.de
-    - text: Twitter
+    - icon: twitter
       href: https://twitter.com/eyayaw
-    - text: LinkedIn
-      href: https://linkedin.com/in/eyayaw
-    - text: Github
+    - icon: github
       href: https://github.com/eyayaw
+    - icon: stack-overflow
+      href: https://stackoverflow.com/users/9782217/eyayaw
+      rel: me
+    - icon: mastodon
+      href: https://mastodon.social/@eyayaw
+      rel: me
+    - icon: linkedin
+      href: https://linkedin.com/in/eyayaw
+toc: false
 ---
 
-My name is Eyayaw Beze, and I am a PhD candidate at the [University of Duisburg-Essen](https://www.uni-due.de/en/index.php). My research areas are urban and regional economics, with a particular focus on housing markets issues. Besides, I am highly interested in data science with `R` and `Python`.
+# Hi there, welcome!
+
+My name is Eyayaw Beze, and I am a PhD candidate at the [University of
+Duisburg-Essen](https://www.uni-due.de/en/index.php). My research areas
+are urban and regional economics, with a particular focus on housing
+markets issues. Besides, I am highly interested in data science with `R`
+and `Python`.
+
+<details>
+
+<summary>Short bio</summary>
+
+I grew up in a small village called Shumshuha \[ሹምሹሃ\] (aka Lalibela
+Airport) about 10km southwest of the historic town [Lalibela,
+Ethiopia](https://en.wikipedia.org/wiki/Lalibela).
+
+![Shumshuha --- Lalibela Airport, photo © [Raimund
+Stehmann](https://www.airliners.net/photo/-/-/1618928/L?qsp=eJwtjEEKAjEMRe+StRsZcDE7vcC48AKx/Wgx2pIEtAxzd2Nx93gP3kqpvhwfv/QGmsnAmu60o8bKT6N5pQf6u2oOJmEpVwhHt6p+6uEyO44poTny3y+aob8ES2N1i/U+AHoeTNMhfC7WhMcDzkVo277Oky/R),
+[Airliners](https://airliners.net)](shumshuha.jpg){fig-alt="Shumshuha --- Lalibela Airport"
+fig-align="center"}
+
+I went to Bahir Dar University for my undergrad, for master's to [KDI
+School](https://www.kdischool.ac.kr/) in South Korea, and to Budapest,
+Regensburg, and Trento for a joint European master in comparative local
+development ([Master
+CoDe](https://www.unitn.it/ateneo/813/joint-european-master-of-local-development-code)).
+
+For more than three years, I worked for Jimma University, [department of
+Economics](https://ju.edu.et/college-of-business-and-conomics/), where I
+taught undergrad economics courses.
+
+Now, I am a PhD candidate at the [University of
+Duisburg-Essen](https://www.uni-due.de/en/index.php).
+
+</details>

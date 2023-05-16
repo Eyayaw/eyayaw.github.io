@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Eyayaw Beze"
+  title: eyayaw beze
   description: "Eyayaw Beze's personal website"
   site-url: https://eyayaw.github.io
   repo-url: https://github.com/eyayaw/eyayaw.github.io
@@ -17,29 +17,24 @@ website:
     background: primary
     left:
       - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - bio.qmd
-      - href: cv.qmd
-        text: CV
-      - href: blog.qmd
-        text: Blog
+        text: home
+      - text: research
+        href: research.qmd
+      # - text: bio
+      #   href: bio.qmd
+      - text: cv
+        href: cv.qmd
+      - text: blog
+        href: blog.qmd
+
     right:
       - icon: envelope
         href: mailto:eyayaw.beze@uni-due.de
       - icon: twitter
         href: https://twitter.com/eyayaw
-      - icon: linkedin
-        href: https://linkedin.com/in/eyayaw
       - icon: github
         href: https://github.com/eyayaw
-      - icon: stack-overflow
-        href: https://stackoverflow.com/users/9782217/eyayaw
-        rel: me
-      - icon: mastodon
-        href: https://mastodon.social/@eyayaw
-        rel: me
+
   page-footer:
     left: |
       This website is built with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/).
