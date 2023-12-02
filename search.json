@@ -1,17 +1,31 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "eyayaw beze",
+    "section": "",
+    "text": "Welcome to my Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 31, 2022\n\n\nEyayaw Beze\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2022-07-31_welcome/index.html",
+    "href": "posts/2022-07-31_welcome/index.html",
+    "title": "Welcome to my Blog",
+    "section": "",
+    "text": "This is the first post in my blog. Welcome!\n\nI will blog about what I have learned in my Rand Python journey. Stay tuned!"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "eyayaw beze",
     "section": "",
-    "text": "The impact of covid-19 on real estate markets in Germany\n\nwith Lukas Hörnig, and Patrick Thiel\n\nGeographic Constraints and the Housing Supply Elasticity in Germany — Ruhr Economic Papers #1003 [link], current version [link]\n\nAbstract\nThe study estimates the housing supply elasticity and the impact of geographic constraints in Germany from 2008-2019 using the Bartik instrument. The results show that the housing supply is, on average, inelastic, with a floorspace elasticity of 0.22 and a units elasticity of 0.25. The study also reveals that geographical constraints partially affect the housing supply elasticity across districts. Notably, high development intensity decreases the elasticity, while the unavailability of land for development due to restrictive geography has no significant impact on the housing supply elasticity. The housing supply elasticity estimates may prove useful for calibrating quantitative urban or regional models in Germany."
+    "text": "Generating urban data for Addis Ababa — Providing empirical evidence for the AMM model\nThe impact of covid-19 on real estate markets in Germany, coauthored with Patrick Thiel\nGeographic Constraints and the Housing Supply Elasticity in Germany — Ruhr Economic Papers #1003 [link], current version [link] replication code\n\nAbstract: The study estimates the housing supply elasticity and the impact of geographic constraints in Germany from 2008-2019 using the Bartik instrument. The results show that the housing supply is, on average, inelastic, with a floorspace elasticity of 0.22 and a units elasticity of 0.25. The study also reveals that geographical constraints partially affect the housing supply elasticity across districts. Notably, high development intensity decreases the elasticity, while the unavailability of land for development due to restrictive geography has no significant impact on the housing supply elasticity. The housing supply elasticity estimates may prove useful for calibrating quantitative urban models in Germany."
   },
   {
     "objectID": "research.html#work-in-progress",
     "href": "research.html#work-in-progress",
     "title": "eyayaw beze",
     "section": "",
-    "text": "The impact of covid-19 on real estate markets in Germany\n\nwith Lukas Hörnig, and Patrick Thiel\n\nGeographic Constraints and the Housing Supply Elasticity in Germany — Ruhr Economic Papers #1003 [link], current version [link]\n\nAbstract\nThe study estimates the housing supply elasticity and the impact of geographic constraints in Germany from 2008-2019 using the Bartik instrument. The results show that the housing supply is, on average, inelastic, with a floorspace elasticity of 0.22 and a units elasticity of 0.25. The study also reveals that geographical constraints partially affect the housing supply elasticity across districts. Notably, high development intensity decreases the elasticity, while the unavailability of land for development due to restrictive geography has no significant impact on the housing supply elasticity. The housing supply elasticity estimates may prove useful for calibrating quantitative urban or regional models in Germany."
+    "text": "Generating urban data for Addis Ababa — Providing empirical evidence for the AMM model\nThe impact of covid-19 on real estate markets in Germany, coauthored with Patrick Thiel\nGeographic Constraints and the Housing Supply Elasticity in Germany — Ruhr Economic Papers #1003 [link], current version [link] replication code\n\nAbstract: The study estimates the housing supply elasticity and the impact of geographic constraints in Germany from 2008-2019 using the Bartik instrument. The results show that the housing supply is, on average, inelastic, with a floorspace elasticity of 0.22 and a units elasticity of 0.25. The study also reveals that geographical constraints partially affect the housing supply elasticity across districts. Notably, high development intensity decreases the elasticity, while the unavailability of land for development due to restrictive geography has no significant impact on the housing supply elasticity. The housing supply elasticity estimates may prove useful for calibrating quantitative urban models in Germany."
   },
   {
     "objectID": "research.html#publications",
@@ -28,18 +42,11 @@
     "text": "Essays\n\nEnergy Consumption and Economic Growth in Selected East African Countries: 1990-2015\nSources of Growth in Sub-Saharan-African Countries: A Growth Accounting Analysis over 1980-2011 time period"
   },
   {
-    "objectID": "posts/2022-07-31_welcome/index.html",
-    "href": "posts/2022-07-31_welcome/index.html",
-    "title": "Welcome to my Blog",
-    "section": "",
-    "text": "This is the first post in my blog. Welcome!\n\nI will blog about what I have learned in my Rand Python journey. Stay tuned!"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hi there, welcome!",
     "section": "",
-    "text": "Hi there, welcome!\nMy name is Eyayaw Beze, and I am a PhD candidate at the University of Duisburg-Essen. My research areas are urban and regional economics, with a particular focus on housing markets issues. Besides, I am highly interested in data science with R and Python.\n\n\nShort bio\n\nI grew up in a small village called Shumshuha [ሹምሹሃ] (aka Lalibela Airport) about 10km southwest of the historic town Lalibela, Ethiopia.\n\n\n\nShumshuha — Lalibela Airport, photo © Raimund Stehmann, Airliners\n\n\nI went to Bahir Dar University for my undergrad, for master’s to KDI School in South Korea, and to Budapest, Regensburg, and Trento for a joint European master in comparative local development (Master CoDe).\nFor more than three years, I worked for Jimma University, department of Economics, where I taught undergrad economics courses.\nNow, I am a PhD candidate at the University of Duisburg-Essen."
+    "text": "Hi there, welcome!\nMy name is Eyayaw Beze, and I am a Ph.D. candidate at the University of Duisburg-Essen. My research focuses on urban and regional economics, particularly housing market issues. Additionally, I am highly interested in data science with R and Python.\n\n\nShort bio\n\nI grew up in a small village called Shumshuha [ሹምሹሃ] (aka Lalibela Airport) about 10km southwest of the historic town Lalibela, Ethiopia.\n\n\n\nShumshuha — Lalibela Airport, photo © Raimund Stehmann, Airliners\n\n\nI went to Bahir Dar University for my undergrad, for my master’s to KDI School in South Korea, and to Budapest, Regensburg and Trento for a joint European master in comparative local development (Master CoDe).\nFor more than three years, I worked for Jimma University, department of Economics, where I taught undergrad economics courses.\nNow, I am a Ph.D. candidate at the University of Duisburg-Essen."
   },
   {
     "objectID": "bio.html",
@@ -47,12 +54,5 @@
     "title": "eyayaw beze",
     "section": "",
     "text": "I grew up in a small village called Shumshuha [ሹምሹሃ] (aka Lalibela Airport) about 10km southwest of the historic town Lalibela, Ethiopia.\n\n\n\nShumshuha — Lalibela Airport, photo © Raimund Stehmann, Airliners\n\n\nI went to Bahir Dar University for my undergrad, for master’s to KDI School in South Korea, and to Budapest, Regensburg, and Trento for a joint European master in comparative local development (Master CoDe).\nFor more than three years, I worked for Jimma University, department of Economics, where I taught undergrad economics courses.\nNow, I am a PhD candidate at the University of Duisburg-Essen."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "eyayaw beze",
-    "section": "",
-    "text": "Welcome to my Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 31, 2022\n\n\nEyayaw Beze\n\n\n\n\n\n\nNo matching items"
   }
 ]
