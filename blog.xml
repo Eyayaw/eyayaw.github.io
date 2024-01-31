@@ -9,13 +9,14 @@
 <link>https://eyayaw.github.io/blog.html</link>
 <atom:link href="https://eyayaw.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Eyayaw Beze&#39;s personal website</description>
-<generator>quarto-1.3.450</generator>
+<generator>quarto-1.4.549</generator>
 <lastBuildDate>Sat, 30 Jul 2022 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Welcome to my Blog</title>
   <dc:creator>Eyayaw Beze</dc:creator>
-  <link>https://eyayaw.github.io/posts/2022-07-31_welcome/index.html</link>
+  <link>https://eyayaw.github.io/posts/2022-07-31_welcome/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -28,7 +29,7 @@
 
  ]]></description>
   <category>news</category>
-  <guid>https://eyayaw.github.io/posts/2022-07-31_welcome/index.html</guid>
+  <guid>https://eyayaw.github.io/posts/2022-07-31_welcome/</guid>
   <pubDate>Sat, 30 Jul 2022 22:00:00 GMT</pubDate>
 </item>
 </channel>
