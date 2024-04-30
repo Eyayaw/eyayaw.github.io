@@ -4,17 +4,10 @@ image: social-card.jpg
 about:
   template: trestles
   links:
-    - href: https://eyayaw.github.io
-      icon: link
-    - icon: envelope
-      href: eyayaw.beze@uni-due.de
-    - icon: twitter
-      href: https://twitter.com/eyayaw
     - icon: github
       href: https://github.com/eyayaw
-    - icon: stack-overflow
-      href: https://stackoverflow.com/users/9782217/eyayaw
-      rel: me
+    - icon: twitter
+      href: https://twitter.com/eyayaw
     - icon: mastodon
       href: https://mastodon.social/@eyayaw
       rel: me
@@ -25,10 +18,10 @@ toc: false
 
 # Hi there, welcome!
 
-My name is Eyayaw Beze, and I am a PhD candidate at the [University of
-Duisburg-Essen](https://www.uni-due.de/en/index.php). My research areas
-are urban and regional economics, with a particular focus on housing
-markets issues. Besides, I am highly interested in data science with `R`
+My name is Eyayaw Beze, and I am a Ph.D. candidate at the [University of
+Duisburg-Essen](https://www.uni-due.de/en/index.php). My research
+focuses on urban and regional economics, particularly housing market
+issues. Additionally, I am highly interested in data science with `R`
 and `Python`.
 
 <details>
@@ -44,9 +37,9 @@ Stehmann](https://www.airliners.net/photo/-/-/1618928/L?qsp=eJwtjEEKAjEMRe+StRsZ
 [Airliners](https://airliners.net)](shumshuha.jpg){fig-alt="Shumshuha --- Lalibela Airport"
 fig-align="center"}
 
-I went to Bahir Dar University for my undergrad, for master's to [KDI
+I went to Bahir Dar University for my undergrad, for my master's to [KDI
 School](https://www.kdischool.ac.kr/) in South Korea, and to Budapest,
-Regensburg, and Trento for a joint European master in comparative local
+Regensburg and Trento for a joint European master in comparative local
 development ([Master
 CoDe](https://www.unitn.it/ateneo/813/joint-european-master-of-local-development-code)).
 
@@ -54,7 +47,7 @@ For more than three years, I worked for Jimma University, [department of
 Economics](https://ju.edu.et/college-of-business-and-conomics/), where I
 taught undergrad economics courses.
 
-Now, I am a PhD candidate at the [University of
+Now, I am a Ph.D. candidate at the [University of
 Duisburg-Essen](https://www.uni-due.de/en/index.php).
 
 </details>

@@ -5,6 +5,30 @@ categories: [code, r, python]
 draft: true
 ---
 
+
+:::: {.columns}
+
+::: {.column width="70%"}
+I would like to have text here
+
+Sentence becomes longer, it should automatically stay in their column
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+and here
+
+More text
+:::
+
+::::
+
+
+
+
 R and Python are two of the most popular programming languages in the field of data science. Both have their own strengths and weaknesses, and the choice between the two often comes down to personal preference and the specific needs of a project.
 
 One major difference between the two languages is the way they were designed. R was specifically created for statistical computing and data analysis, while Python is a general-purpose language with a wide range of applications. This means that R has a number of built-in functions and packages for working with data, whereas in Python, data scientists often have to use external libraries like Pandas and NumPy to perform similar tasks.
