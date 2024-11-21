@@ -34,7 +34,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -76,9 +75,11 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Eyayaw Beze’s personal website – Eyayaw Beze">
 <meta property="og:description" content="Eyayaw Beze’s personal website">
+<meta property="og:image" content="https://eyayaw.github.io/img/eyayaw-london-small.jpg">
 <meta property="og:site_name" content="Eyayaw Beze">
 <meta name="twitter:title" content="Eyayaw Beze">
 <meta name="twitter:description" content="I’m on full-blown search mode for a decent job.">
+<meta name="twitter:image" content="https://eyayaw.github.io/img/eyayaw-london-small.jpg">
 <meta name="twitter:creator" content="@eyayaw">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -142,27 +143,16 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-jolla column-page">
+  <img src="img/eyayaw-london-small.jpg" class="about-image
+  round " style="height: 15em; width: 15em;">
+ <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title"><em>Eyayaw Beze’s personal website</em></h1>
 </div>
-
-
-
 <div class="quarto-title-meta column-page">
-
-    
-  
-    
   </div>
-  
-
-
-</header>
-
-
+</header><main class="content column-page" id="quarto-document-content">
 <div class="social-links">
 <a href="https://linkedin.com/in/eyayaw" class="social-icon"><i class="fab fa-linkedin fa-2x"></i></a>
 <a href="https://github.com/eyayaw" class="social-icon"><i class="fab fa-github fa-2x"></i></a>
@@ -170,19 +160,20 @@ ul.task-list li input[type="checkbox"] {
 <a href="https://mastodon.social/@eyayaw" class="social-icon"><i class="fab fa-mastodon fa-2x"></i></a>
 <a href="https://bsky.app/profile/eyayaw.bsky.social" class="social-icon"><i class="fa-brands fa-bluesky fa-2x"></i></a>
 </div>
-<section id="hey-there" class="level1" style="font-size: 24px">
+<section id="hey-there" class="level1">
 <h1>Hey there! 👋🏽</h1>
 <p>Thank you for visiting my website!</p>
-<p>My name is Eyayaw Beze, and I did my Ph.D.&nbsp;in Urban/Regional Economics, focusing on housing supply and the empirical application of the monocentric city model, also known as the <strong>Alonso</strong>, <strong>Mills</strong>, and <strong>Muth</strong> (AMM) model. Additionally, I’m interested in data science with <i class="fa-brands fa-r-project"></i>, <i class="fa-brands fa-python"></i>, and <i class="fas fa-database"></i>. <a href="about.html"></a></p><a href="about.html">
-</a><p><a href="about.html">About Me →</a></p>
+<p>My name is Eyayaw Beze, and I did my Ph.D.&nbsp;in Urban/Regional Economics, focusing on housing supply and the empirical application of the monocentric city model, also known as the <strong>Alonso</strong>, <strong>Mills</strong>, and <strong>Muth</strong> (AMM) model. Additionally, I’m interested in data science with <i class="fa-brands fa-r-project"></i>, <i class="fa-brands fa-python"></i>, and <i class="fas fa-database"></i>.</p>
+<p><a href="about.html">About me →</a></p>
 <p>
 <i class="fas fa-futbol mufc"></i> Proud <span style="color: #DA291C;"><strong>Manchester</strong></span> <strong>United</strong> fan since 2005!
 </p>
+
+
 </section>
-
-
-
-</main> <!-- /main -->
+</main>  
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -347,13 +338,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
