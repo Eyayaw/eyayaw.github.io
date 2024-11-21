@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://eyayaw.github.io/index.html</loc>
+    <lastmod>2024-11-21T11:12:50.298Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eyayaw.github.io/cv/index.html</loc>
+    <lastmod>2024-11-20T11:30:06.138Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eyayaw.github.io/about.html</loc>
+    <lastmod>2024-11-21T20:38:11.481Z</lastmod>
+  </url>
+  <url>
     <loc>https://eyayaw.github.io/blog.html</loc>
-    <lastmod>2023-05-16T20:24:14.000Z</lastmod>
+    <lastmod>2024-11-21T18:16:21.258Z</lastmod>
   </url>
   <url>
-    <loc>https://eyayaw.github.io/cv.html</loc>
-    <lastmod>2024-07-09T06:55:26.605Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eyayaw.github.io/posts/2022-07-31_welcome/index.html</loc>
-    <lastmod>2023-03-06T12:16:38.000Z</lastmod>
+    <loc>https://eyayaw.github.io/posts/2022/welcome.html</loc>
+    <lastmod>2024-11-21T18:31:47.689Z</lastmod>
   </url>
   <url>
     <loc>https://eyayaw.github.io/research.html</loc>
-    <lastmod>2024-05-10T12:00:23.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eyayaw.github.io/index.html</loc>
-    <lastmod>2024-07-09T07:11:57.052Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eyayaw.github.io/bio.html</loc>
-    <lastmod>2023-05-16T20:24:18.000Z</lastmod>
+    <lastmod>2024-11-21T20:43:44.974Z</lastmod>
   </url>
 </urlset>
