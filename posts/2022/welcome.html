@@ -71,6 +71,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0MBR68SHL8"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0MBR68SHL8', { 'anonymize_ip': true});
+</script>
 <style>html{ scroll-behavior: smooth; }</style>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
 
@@ -78,11 +87,11 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="Welcome to my Blog – Eyayaw Beze">
 <meta property="og:description" content="Eyayaw Beze’s personal website">
-<meta property="og:image" content="{{< var site-url >}}/posts/2022/thumbnail.jpg">
+<meta property="og:image" content="https://eyayaw.github.io/posts/2022/thumbnail.jpg">
 <meta property="og:site_name" content="Eyayaw Beze">
 <meta name="twitter:title" content="Eyayaw">
 <meta name="twitter:description" content="Eyayaw Beze’s personal website">
-<meta name="twitter:image" content="{{< var site-url >}}/posts/2022/thumbnail.jpg">
+<meta name="twitter:image" content="https://eyayaw.github.io/posts/2022/thumbnail.jpg">
 <meta name="twitter:creator" content="@eyayaw">
 <meta name="twitter:site" content="@eyayaw">
 <meta name="twitter:card" content="summary_large_image">
@@ -441,7 +450,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https://eyayaw.github.io");
+      var filterRegex = new RegExp("https:\/\/eyayaw\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
