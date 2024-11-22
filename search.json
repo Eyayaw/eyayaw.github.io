@@ -7,50 +7,50 @@
     "text": "Hey there! 👋🏽\nThank you for visiting my website!\nMy name is Eyayaw Beze, and I did my Ph.D. in Urban/Regional Economics, focusing on housing supply and the empirical application of the monocentric city model, also known as the Alonso, Mills, and Muth (AMM) model. Additionally, I’m interested in data science with , , and .\nAbout me →\n\n Proud Manchester United fan since 2005!"
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "Eyayaw Beze",
     "section": "",
     "text": "View my CV"
   },
   {
-    "objectID": "cv/index.html#about",
-    "href": "cv/index.html#about",
+    "objectID": "cv.html#about",
+    "href": "cv.html#about",
     "title": "Eyayaw Beze",
     "section": "About",
     "text": "About\nPh.D. in Economics\nUrban Economics | Housing Markets | Data Science | and  enthusiast\n\n\n\n\n\n\nI am interested in applying data science, statistics, econometrics, and machine learning to urban economics, with a focus on housing markets and geospatial analysis. My expertise includes handling large datasets, data cleaning, visualization, and analysis. I am proficient in R, Python, and SQL."
   },
   {
-    "objectID": "cv/index.html#work-experience",
-    "href": "cv/index.html#work-experience",
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
     "title": "Eyayaw Beze",
     "section": "Work Experience",
     "text": "Work Experience\n\nScientific researcher at the Chair of Economics, University of Duisburg-Essen\nIntern and RA at IOS Regensburg\nLecturer at Jimma University"
   },
   {
-    "objectID": "cv/index.html#education",
-    "href": "cv/index.html#education",
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
     "title": "Eyayaw Beze",
     "section": "Education",
     "text": "Education\n\nPh.D. in Economics, Ruhr Graduate School in Economics\nMA in Comparative Local Development, University of {Corvinus, Regensburg, Trento, Lijubljana}\nMA in Development Policy, KDI School of Public Policy and Management\nBA in Economics, Bahir Dar University"
   },
   {
-    "objectID": "cv/index.html#dissertation",
-    "href": "cv/index.html#dissertation",
+    "objectID": "cv.html#dissertation",
+    "href": "cv.html#dissertation",
     "title": "Eyayaw Beze",
     "section": "Dissertation",
     "text": "Dissertation\nTitle: Essays on Housing Supply and the Monocentric City Model\n\n\nTesting the Gradient Predictions of the Monocentric City Model in Addis Ababa \nThe impact of COVID-19 on real estate markets in Germany. \nGeographic Constraints and the Housing Supply Elasticity in Germany."
   },
   {
-    "objectID": "cv/index.html#skills",
-    "href": "cv/index.html#skills",
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
     "title": "Eyayaw Beze",
     "section": "Skills",
     "text": "Skills\n\nR, Python, SQL, Stata, Zsh, Git, GIS, LaTeX/Quarto/Markdown, Shiny"
   },
   {
-    "objectID": "cv/index.html#interests",
-    "href": "cv/index.html#interests",
+    "objectID": "cv.html#interests",
+    "href": "cv.html#interests",
     "title": "Eyayaw Beze",
     "section": "Interests",
     "text": "Interests\n\nData, web scraping, football"
@@ -60,7 +60,14 @@
     "href": "about.html",
     "title": "Eyayaw Beze",
     "section": "",
-    "text": "Hi there, this is Eyayaw. Pronounce my name like the Old McDonald song: “E-I-E-I-O.”\nI grew up in a small village called Shumshuha {ሹምሹሃ} (aka Lalibela Airport) about 10km southwest of the historic town Lalibela, Ethiopia.\n\n\n\nShumshuha — Lalibela Airport, photo © Raimund Stehmann, Airliners\n\n\nI went to Bahir Dar University for my undergrad, for my master’s to KDI School in South Korea, and to Budapest, Regensburg and Trento for a joint European master in comparative local development (Master CoDe).\nFor more than three years, I worked for Jimma University, department of Economics, where I taught undergrad economics courses.\nI did my Ph.D. in Urban Economics at RGS Econ, based at the University of Duisburg-Essen."
+    "text": "Hi there, this is Eyayaw. Pronounce my name like the Old McDonald song: “E-I-E-I-O.”"
+  },
+  {
+    "objectID": "about.html#short-bio",
+    "href": "about.html#short-bio",
+    "title": "Eyayaw Beze",
+    "section": "Short Bio",
+    "text": "Short Bio\nI grew up in a small village called Shumshuha {ሹምሹሃ} (aka Lalibela Airport) about 10km southwest of the historic town Lalibela, Ethiopia.\n\n\n\nShumshuha — Lalibela Airport, photo © Raimund Stehmann, Airliners\n\n\nI went to Bahir Dar University for my undergrad, for my master’s to KDI School in South Korea, and to Budapest, Regensburg and Trento for a joint European master in comparative local development (Master CoDe).\nFor more than three years, I worked for Jimma University, department of Economics, where I taught undergrad economics courses.\nI did my Ph.D. in Urban Economics at RGS Econ, based at the University of Duisburg-Essen."
   },
   {
     "objectID": "blog.html",
